@@ -1,7 +1,7 @@
 [
   {
     "name": "PHP",
-    "ring": "Adopt",
+    "ring": "adopt",
     "quadrant": "Languages & Frameworks",
     "isNew": "FALSE",
     "description":"Defacto standard language for our platform"
